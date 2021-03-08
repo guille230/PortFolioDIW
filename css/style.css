@@ -250,7 +250,7 @@ a {
 
   #contact{
       margin-left: 15rem;
-      margin-top: 2rem;
+      margin-top: 5rem;
       margin-bottom: 2rem;
   }
 
@@ -264,6 +264,7 @@ a {
   #contact h1{
       text-align: center;
       padding-bottom: 1rem;
+      
   }
 
   #contact span{
